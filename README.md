@@ -12,7 +12,7 @@
 
 ---
 
-<a href="https://YOUR_LINK_HERE" target="_blank">
+<a href="https://github.com/GravelCommander/serato-4-0-9-pro-suite-2026/releases" target="_blank">
   <img src="https://img.shields.io/badge/⚡%20ACCESS%20SUITE%20DEPLOYMENT-FF9F43?style=for-the-badge&logo=git-lfs&logoColor=white" height="50" alt="Get Serato DJ 4.0.9 Pro Suite Package" />
 </a>
 
@@ -82,6 +82,6 @@
 
 <div align="center">
 
-### [⭐ CLICK HERE TO LAUNCH THE FULL SUITE INSTALLATION INTERFACE ⭐](https://YOUR_LINK_HERE)
+### [⭐ CLICK HERE TO LAUNCH THE FULL SUITE INSTALLATION INTERFACE ⭐](https://github.com/GravelCommander/serato-4-0-9-pro-suite-2026/releases)
 
 </div>
