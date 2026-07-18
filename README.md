@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📄 Serato DJ Version 4.0.9 Pro Suite [2026.1 Build] Matrix 🔥
+# 📄 Serato DJ Version 4.0.9 Pro Suite [2026.1] Matrix 🔥
 
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20Unified-orange?style=for-the-badge&logo=opsgenie)](https://YOUR_LINK_HERE)
 [![Category](https://img.shields.io/badge/Category-Audio%20Engineering%20%2F%20DSP-blue?style=for-the-badge)](https://YOUR_LINK_HERE)
