@@ -2,9 +2,9 @@
 
 # 📄 Serato DJ Version 4.0.9 Pro Suite [2026.1] Matrix 🔥
 
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20Unified-orange?style=for-the-badge&logo=opsgenie)](https://YOUR_LINK_HERE)
-[![Category](https://img.shields.io/badge/Category-Audio%20Engineering%20%2F%20DSP-blue?style=for-the-badge)](https://YOUR_LINK_HERE)
-[![Status](https://img.shields.io/badge/Status-Fully%20Updated%20Core-green?style=for-the-badge)](https://YOUR_LINK_HERE)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20Unified-orange?style=for-the-badge&logo=opsgenie)](https://github.com/GravelCommander/serato-4-0-9-pro-suite-2026/releases)
+[![Category](https://img.shields.io/badge/Category-Audio%20Engineering%20%2F%20DSP-blue?style=for-the-badge)](https://github.com/GravelCommander/serato-4-0-9-pro-suite-2026/releases)
+[![Status](https://img.shields.io/badge/Status-Fully%20Updated%20Core-green?style=for-the-badge)](https://github.com/GravelCommander/serato-4-0-9-pro-suite-2026/releases)
 
 <p align="center">
   <b>Technical documentation and deployment resources for the SDJ Architecture v4.0.9 Pro Suite. This environment consolidates the complete spectrum of multi-channel mixing modules, real-time separation logic, and advanced peripheral bridging protocols for the 2026.1 production cycle.</b>
